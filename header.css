@@ -23,3 +23,12 @@ a {
   color: inherit;
   margin-left: 28px;
 }
+
+button {
+  width: 199px;
+  height: 60px;
+  background: #252c41;
+  font-family: Arial, "Roboto", sans-serif;
+  color: #fff;
+  font-size: 20px;
+}
